@@ -1,0 +1,22 @@
+/*
+  ===================================================
+  Venue
+  ===================================================
+*/
+
+.venue-theatre
+{
+    margin-bottom: 66;
+}
+
+.venue-hotel
+{
+    margin-bottom: 22px;
+}
+
+.venue-map
+{
+    height: 264px;
+    float: right;
+    margin-bottom: 30px;
+}
